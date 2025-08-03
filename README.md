@@ -1,7 +1,4 @@
 # Halo, Saya Fauzan Galang Raifan 👋
-
-<img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="150" style="border-radius: 50%;" alt="Foto Profil" />
-
 ## Tentang Saya
 - 🌱 Sedang belajar: Laravel, dan GitHub
 - 🎓 Mahasiswa di STMIK Mardira Indonesia

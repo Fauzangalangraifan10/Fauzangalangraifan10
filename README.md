@@ -4,7 +4,7 @@
 - 🎓 Mahasiswa di STMIK Mardira Indonesia
 - 💼 Tertarik di bidang: Web Development & Database Management
 - 📫 Email: fauzanfroject@gmail.com
-- 🌐 LinkedIn: [linkedin.com/in/fauzan](https://linkedin.com/in/fauzan)
+- 🌐 LinkedIn: [-----------)
 
 ---
 

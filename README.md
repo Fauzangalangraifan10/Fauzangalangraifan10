@@ -75,15 +75,3 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
----
-
-### 📊 **Statistik GitHub Saya**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FauzanGalang&show_icons=true&theme=tokyonight" alt="Fauzan's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FauzanGalang&layout=compact&theme=tokyonight" alt="Top Languages" />
-  <br/>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=FauzanGalang&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
-</p>

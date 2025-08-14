@@ -40,7 +40,7 @@
         <li>Login dengan hak akses (role-based).</li>
       </ul>
       <p>
-        <a href="LINK_REPO_ANDA"><b>🔗 Lihat Repositori</b></a>
+        <a href="https://github.com/Fauzangalangraifan10/Web_Pesantren"><b>🔗 Lihat Repositori</b></a>
       </p>
     </td>
     <td valign="top">
@@ -52,7 +52,7 @@
         <li>Laporan penjualan sederhana.</li>
       </ul>
       <p>
-        <a href="LINK_REPO_ANDA"><b>🔗 Lihat Repositori</b></a>
+        <a href="https://github.com/Fauzangalangraifan10/E-Kasir"><b>🔗 Lihat Repositori</b></a>
       </p>
     </td>
   </tr>

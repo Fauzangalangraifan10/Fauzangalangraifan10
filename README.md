@@ -9,7 +9,7 @@
   <br>
   📫 <b>Email:</b> fauzanfroject@gmail.com  
   <br>
-  🌐 <b>LinkedIn:</b> <a href="#" target="_blank">linkedin.com/in/username</a>  
+  🌐 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/fauzan10/" target="_blank">linkedin.com/in/username</a>  
 </p>
 
 ---

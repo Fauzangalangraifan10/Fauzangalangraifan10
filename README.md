@@ -7,9 +7,9 @@
   <br>
   💼 <b>Tertarik di bidang:</b> Web Development & Database Management  
   <br>
-  📫 <b>Email:</b> fauzanfroject@gmail.com  
+  📫 <b>Email:</b> <a href = "fauzanfroject@gmail.com" > fauzanfroject@gmail.com a>
   <br>
-  🌐 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/fauzan10/" target="_blank">linkedin.com/in/username</a>  
+  🌐 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/fauzan10/">linkedin.com/in/fauzan10</a>  
 </p>
 
 ---

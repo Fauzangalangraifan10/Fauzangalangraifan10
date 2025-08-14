@@ -3,7 +3,7 @@
 <p align="center">
   🌱 <b>Sedang belajar:</b> Laravel & GitHub  
   <br>
-  🎓 <b>Mahasiswa di:</b> STMIK Mardira Indonesia  
+  🎓 <b>Mahasiswa di:</b> STMIK Mardira Indonesia  https://www.stmik-mi.ac.id/ 
   <br>
   💼 <b>Tertarik di bidang:</b> Web Development & Database Management  
   <br>

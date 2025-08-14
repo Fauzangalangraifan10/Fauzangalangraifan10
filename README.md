@@ -75,10 +75,12 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-### Github Statistic
-<p align="left">
-<a href="https://github.com/penuliscode">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&layout=compact&theme=algolia"/>
-</a>
+### 📊 Github Statistic
+<p align="center">
+  <a href="https://github.com/Fauzangalangraifan10">
+    <!-- Statistik umum -->
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fauzangalangraifan10&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <!-- Persentase bahasa -->
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fauzangalangraifan10&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
 </p>

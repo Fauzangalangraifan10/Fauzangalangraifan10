@@ -25,7 +25,7 @@
 
 - 🎓 Mahasiswa di **STMIK Mardira Indonesia**.
 - 🌱 Saat ini sedang mendalami **Laravel** untuk membangun aplikasi web yang tangguh dan **GitHub** untuk kolaborasi yang lebih baik.
-- 💼 Tertarik pada **Full-Stack Web Development** dan **Database Management**.
+- 💼 Tertarik pada **Web Development** dan **Database Management**.
 - 🎯 Tujuan saya adalah menjadi seorang Web Developer profesional yang mampu menciptakan solusi digital yang efisien dan bermanfaat.
 - 💡 Saya suka belajar teknologi baru dan menyelesaikan masalah melalui *coding*.
 
